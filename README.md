@@ -27,6 +27,7 @@ pip install -r requirements.txt
 ```
 
 **Usage**
+
 To run the style transfer, use the following command structure. Make sure your input images are in the project directory or provide their full path.
 ```
 python main.py --content_image <content_image_path.jpg> --style_image <style_image_path.jpg> --output_image <output_image_path.jpg>
