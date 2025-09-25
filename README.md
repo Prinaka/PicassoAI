@@ -35,7 +35,7 @@ python main.py --content_image <content_image_path.jpg> --style_image <style_ima
 
 **License:**
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 
 **Credits:**
