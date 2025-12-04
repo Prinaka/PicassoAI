@@ -2,6 +2,8 @@
 
 This is a deep learning application that combines the content of one image (such as a photograph) with the creative style of another (like a painting) using a pretrained CNN. The CNN acts as a feature extractor to separately represent the content and style of both images. The result is a brand-new image that retains the original scene's structure while being "painted" in the aesthetic of the second image.
 
+Live Demo : https://huggingface.co/spaces/Prinaka/Image-Style-Transfer
+
 **Key Features:**
 * Image Synthesis: Combine the content of any photograph with the artistic style of a famous painting or a custom image.
 * Highly Customizable: Easily adjust parameters such as the number of iterations, content weight, and style weight to achieve a desired effect.
